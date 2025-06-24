@@ -46,6 +46,6 @@ function buildFunctions() {
 }
 
 const funcs = buildFunctions();
-funcs[0](); // should print 0
-funcs[1](); // should print 1
-funcs[2](); // should print 2
+funcs[0](); 
+funcs[1](); 
+funcs[2](); 
